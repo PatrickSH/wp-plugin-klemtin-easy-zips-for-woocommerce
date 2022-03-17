@@ -1,0 +1,15 @@
+{
+    "name": "klementinweb/klementin-wp",
+    "description": "Make WordPress developmemnt easier",
+    "type": "library",
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "authors": [
+        {
+            "name": "Klementin",
+            "email": "kaffe@klementin.dk"
+        }
+    ],
+    "require": {}
+}
